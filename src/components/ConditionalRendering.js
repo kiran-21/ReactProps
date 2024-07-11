@@ -4,7 +4,6 @@ import Card from "react-bootstrap/Card";
 
 export default function ConditionalRendering(props) {
 
-
   
   return (
     <Card style={{ width: 'auto', border: '2px solid #000', borderRadius: '10px', margin:'20px' }}>
