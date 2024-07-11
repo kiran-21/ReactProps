@@ -41,5 +41,12 @@
 .Props img {
   width: 250px;
   height: 250px;
+  justify-self: center;
+  align-items: center;
   
+}
+
+h1{
+  margin-left: 20px;
+  text-align:  center;
 }
